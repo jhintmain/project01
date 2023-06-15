@@ -3,3 +3,4 @@
 - DB : mysql
 - mybtis
 - view : JSP
+- Tomcat(9.X) 버전 
